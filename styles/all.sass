@@ -1,0 +1,439 @@
+@import "~bulma/sass/utilities/initial-variables"
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap')
+
+
+
+// Config vars
+$info: #546569
+$dark: #2b3436
+$black: #000
+$gray999: #C6BEC2
+$gray1000: #E0D9DC
+$khalis: #ff9000
+$khalis-invert: #fff
+$green:#008744
+$primary: $khalis
+$primary-invert: $khalis-invert
+$body-color: #201A1C
+$body-font-size:18px
+$body-line-height:27px
+$family-serif: "Opens Sans",Arial,sans-serif
+$family-secondary : "Opens Sans",Arial,sans-serif
+$family-primary: $family-serif
+.navbar .navbar-menu
+  box-shadow: none !important
+
+h2
+  font-size: 22px !important
+  font-weight: bold !important
+  line-height: 180%
+
+
+.gap-8 
+  gap: 8px
+
+.content .taglist
+  list-style: none
+  margin-bottom: 0
+  margin-left: 0
+  margin-right: 1.5rem
+  margin-top: 1.5rem
+  display: flex
+  flex-wrap: wrap
+  justify-content: left
+  align-items: center
+
+  li
+    padding: 0 2rem 1rem 0
+    margin-bottom: 1.5rem
+    margin-top: 0
+
+// Helper Classes
+.full-width-image-container
+  width: 100vw
+  height: 400px
+  position: relative
+  left: 50%
+  right: 50%
+  margin: 2em -50vw
+  background-size: cover
+  background-position: bottom
+  display: flex
+  justify-content: center
+  align-items: center
+
+.full-width-image
+    width: 100vw
+    height: 400px
+    background-size: cover
+    background-position: bottom
+    display: flex
+    justify-content: center
+    align-items: center
+
+.btn
+    display: inline-block
+    padding: 12px 16px 10px
+    font-size: 18px
+    font-size: 1rem
+    line-height: 1.25
+    background-color: #ff9000
+    border-radius: .25rem
+    text-decoration: none
+    font-weight: 700
+    color: #fff
+    text-align: center
+    -webkit-transition: all .15s ease
+    transition: all .15s ease
+
+.margin-top-0
+  margin-top: 0 !important
+.contact-div
+  padding-top: 1rem !important
+
+.navbar-item .icon
+  color: $primary
+// Override for use of svg's from https://simpleicons.org/
+.icon svg
+  width: 1.5rem
+  height: 1.5rem
+  fill: currentColor
+.navbar-brand .navbar-item.logo
+  padding: 0 1rem
+footer.footer
+  padding: 10px 0px
+  background-color: transparent
+
+//Menu overrides
+$menu-item-color: $white-ter
+$menu-item-hover-color: $black !important
+$menu-item-hover-background-color: $black
+$menu-item-active-color: $khalis
+$menu-item-active-background-color:	$khalis
+$menu-list-border-left: 1px solid $khalis
+$menu-label-color: $white-ter
+
+
+.menu-label
+  font-size: 1em !important
+  text-align: left
+.menu-list
+  list-style: none !important
+  text-align: left
+.social
+  padding: 2em
+.social a
+    padding: .5em .5em .3em .5em
+    border-radius: 1em
+    margin: .5em
+    width: 1em
+    height: 1em
+    vertical-align: middle
+    display: inline
+
+// blog roll
+.blog-list-item.is-featured
+  background-color: #d6400033
+.blog-list-item header
+  display: flex
+  margin-bottom: 1em
+.blog-list-item .featured-thumbnail
+  max-width: 100%
+  margin: 0 0 1em
+.card-image > .fa 
+  font-size: 8rem
+  padding-top: 2rem
+  padding-bottom: 2rem
+  color: #209cee
+
+.card-content .content 
+  font-size: 14px
+
+.card-content .content h4 
+  font-size: 16px
+  font-weight: 700
+.card-content
+  padding: 0rem !important
+.card 
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.18)
+  margin-bottom: 2rem
+.cart-content
+    padding: 0.5rem !important
+
+
+@import "~bulma"
+
+// responsiveness
++tablet-only
+  .title
+    font-size: 3rem !important
+    font-weight: 600 !important
+  .blog-list-item .featured-thumbnail
+    max-width: 100%
+    margin: 0 0 1em
+  .post-heading
+    font-size: 40px !important
+    font-weight: 700 !important
+    line-height: 55px !important
+    letter-spacing: 0em !important
+    text-align: left !important
+  .footer-items
+    display: flex
+    flex-direction: column !important
+    align-items: flex-start !important
+    padding-left: 1.5rem !important
+  .navbar-end 
+    margin: auto !important
+  .nav-item-img
+    width: 80px !important
+    height: 80px !important
+  .navbar-item img 
+    max-height: 3.5rem !important
+
++mobile
+  .title 
+    font-size: 2rem !important
+    font-weight: 600 !important
+  .blog-list-item header
+    display: block
+  .blog-list-item .featured-thumbnail
+    text-align: center
+    max-width: 100%
+    margin: 0 0 1em
+  .post-heading
+    font-size: 24px !important
+    font-weight: 700 !important
+    line-height: 31.65px !important
+    letter-spacing: 0em !important
+    text-align: left !important
+  .footer-items
+    display: flex
+    flex-direction: column !important
+    align-items: flex-start !important
+    padding-left: 1.5rem !important
+  .navbar-end 
+    margin: auto !important
+  .nav-item-img
+    width: 80px !important
+    height: 80px !important
+  .navbar-item img 
+    max-height: 3.5rem !important
+  .navbar-menu
+    background: #2b2523 !important
+
+
+.post-heading
+  font-size: 48px
+  font-weight: 700
+  line-height: 72px
+  letter-spacing: 0em
+  text-align: left
+
+$blue: #0076FF
+$link: $blue
+
+.heading1
+  font-size: 24px 
+  font-weight: bold 
+.heading3
+  font-size: 22px 
+  font-weight: bold 
+.heading2
+  font-size: 20px 
+  font-weight: bold 
+.body-text
+  font-size: 18px 
+  font-weight: 400 
+  line-height: 32px 
+  letter-spacing: 0em 
+.social-text
+  font-size: 18px 
+  font-weight: 700 
+  line-height: 27px 
+  color: #FFFFFF
+
+.small-text
+  font-size: 16px 
+  font-weight: regular 
+.section
+  padding: 0rem
+
+
+.date-text
+  font-size: 16px
+  font-weight: 400
+  line-height: 21px
+  letter-spacing: 0em
+  text-align: left
+  padding-top:6px
+  padding-bottom: 12px
+  color:#7E777A
+
+.read-more
+  font-style: normal
+  font-weight: 400
+  font-size: 16px
+  line-height: 21px
+  color:#0076FF !important
+
+.navbar-burger span
+  height: 2px
+  color: white
+.columns
+  margin-left:0px !important
+  margin-right:0px  !important
+
+
+.navbar-burger.is-active span:nth-child(1)
+  top: calc(50% - 6px)
+.navbar-burger.is-active span:nth-child(3)
+  top: calc(50% + 4px)
+.navbar-burger
+  margin-right: 15px
+.nav-item
+  font-size: 14px !important
+  font-weight: 700 !important
+.nav-item-footer
+  font-size: 18px !important
+  font-weight: 400 !important
+  color: #FFFFFF !important
+
+.footer-text
+  font-size: 40px
+  font-weight: 400
+  line-height: 50px
+  text-align: center
+.footer-items
+  display: flex
+  flex-direction: row
+  justify-content: center
+  align-items: center
+
+.social-div
+  display: flex
+  justify-content: center
+  align-items: center
+  margin-top: 40px
+
+.social-btn
+  background:$green
+  border-radius: 24px
+  width: auto
+  display: flex
+  flex-direction: row
+  align-items: center
+  margin: 72px 24px 40px 24px
+  position: relative
+
+  .img-container
+    height: 100%
+    width: 90px
+    background: #C8E0F6
+    display: flex
+    align-items: bottom
+    border-radius: 24px
+    margin-right: 12px
+
+  img
+    width: 100%
+
+  .social-arrow
+    position: absolute
+    top: -32px
+    right: 40px
+
+.container p
+  padding-top: 1rem
+  padding-bottom: 1rem
+  
+
+   
+
+
+footer a.link, footer a.link:visited
+  color: #fff
+  text-decoration: underline
+
+footer .body-text
+  padding: 0 24px
+.is-shady
+  animation: flyintoright .4s backwards
+  background: #fff
+  box-shadow: rgba(0, 0, 0, .1) 0 1px 0
+  border-radius: 4px
+  display: inline-block
+  margin: 10px
+  position: relative
+  transition: all .2s ease-in-out
+
+.column
+  padding: 4px
+.header 
+  background: linear-gradient(to right, rgb(255 255 255), rgb(255 255 255 / 40%)), url(/uploads/bg.png) repeat center center scroll
+  background-size: contain
+
++desktop
+  .title 
+    font-size: 3em !important
+    font-weight: 600 !important
+    line-height: .9em !important
+  .footer-line-text
+    padding: 0 16px
+    text-align: center
+    color: #C2BEBE
+  .footer-line
+    flex: 1
+    height: 0.5px
+    background-color: $gray999
+  .footer-line-box
+    display: flex
+    flex-direction: row
+    align-items: center
+    padding: 4px 0
+  .navbar-item 
+    padding: 0.1rem 0.8rem !important
+
+.container1 
+  position: relative
+  width: auto
+  height: 280px
+
+.image 
+  opacity: 1
+  display: block
+  width: 100%
+  height: auto
+  transition: 0.5s ease
+  backface-visibility: hidden
+
+
+.middle 
+  transition: 0.5s ease
+  opacity: 0
+  position: absolute
+  top: 50%
+  left: 50%
+  padding: 0px
+  transform: translate(-50%, -50%)
+  -ms-transform: translate(-50%, -50%)
+  text-align: center
+  width: 100%
+  height: 100%
+  background: #2b3436d9
+
+
+.container1:hover .image 
+  opacity: 0.3
+
+
+.container1:hover .middle 
+  opacity: 1
+
+
+.middlemiddle 
+  color: white
+  font-weight: 700
+  text-align: center
+  font-size: 15px
+  padding: 2rem
