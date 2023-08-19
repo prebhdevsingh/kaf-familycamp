@@ -89,6 +89,119 @@
 .custom-blue-text {
   color: #0000ff;
 }
+/* Navbar.module.css */
+.nav-container {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  right: 0;
+  z-index: 20;
+}
+.na546vbar {
+  background-color: transparent;
+  transition: background-color 0.3s;
+  justify-content: space-between;
+  padding: 5px 30px;
+  max-width: 1470px;
+  margin: auto;
+  display: flex;
+}
+
+.scrolled {
+  background-color: #ffffff;
+  position: fixed;
+  top: 0;
+}
+.scrolled .navLinks a {
+  color: black !important;
+}
+
+.scrolled-block1 {
+  display: none;
+}
+.scrolled-block2 {
+  display: block;
+}
+.sticky {
+  position: sticky;
+}
+.logo {
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.menuIcon {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  margin-right: 2rem;
+}
+.humburger {
+  color: white;
+  font-size: 40px;
+}
+
+.navLinks,
+.drawerLinks {
+  display: flex;
+  align-items: center;
+  color: white !important;
+  gap: 3rem;
+  font-weight: 700;
+}
+.drawlinks {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 30px 15px;
+}
+.navLinks a {
+  color: white !important;
+}
+.navLinks a:hover,
+.drawlinks a:hover {
+  color: #fcd800 !important;
+}
+
+@media (max-width: 768px) {
+  .menuIcon {
+    display: flex;
+  }
+
+  .navLinks {
+    display: none;
+  }
+
+  .drawerLinks {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #fff;
+    width: 200px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    transform: translateX(100%);
+    transition: transform 0.3s;
+  }
+
+  .drawerLinks a {
+    margin-bottom: 0.5rem;
+  }
+
+  .open .drawerLinks {
+    transform: translateX(0);
+  }
+}
+
+/* navbar */
 .bg-gray {
   background-color: #fbfbfb;
 }
@@ -377,5 +490,10 @@ footer {
   .sm-w-280px {
     max-width: 280px;
     width: 100%;
+  }
+}
+@media (max-width: 448px) {
+  .cta {
+    height: 1150px;
   }
 }

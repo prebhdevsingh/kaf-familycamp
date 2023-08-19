@@ -1,11 +1,11 @@
 import React from "react";
-import Cards from "../components/view/home/Cardss";
-import Parallex from "../components/view/home/Parallexx";
-import Registration from "../components/view/home/Registrationn";
+import Cards from "../components/view/home/Cards";
+import Parallex from "../components/view/home/Parallex";
+import Registration from "../components/view/home/Registration";
 
 const Home = () => {
   return (
-    <div>
+    <div className="relative">
       <Parallex />
       <Cards />
       <Registration />

@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 import { Parallax, Background } from "react-parallax";
 
-const image1 = "/web/wp7050194.webp";
+const image1 = "/web/KFR-2019-website-low-res.png";
 
 const Parallex = () => {
   return (

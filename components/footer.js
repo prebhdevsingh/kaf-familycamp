@@ -78,7 +78,7 @@ const Footer = () => {
                     width="360"
                     height="203"
                     className="sm-w-280px"
-                    src="https://www.youtube.com/embed/-uy5JRbNA34?feature=oembed"
+                    src="https://web.archive.org/web/20211020075145if_/https://www.youtube.com/embed/-uy5JRbNA34?feature=oembed"
                   ></iframe>
                 </div>
               </div>
@@ -160,22 +160,22 @@ const col3Data = [
   {
     id: 1,
     title: "Donate",
-    link: "https://www.khalsafamilyretreat.co.uk/donate/",
+    link: "/donate/",
   },
   {
     id: 2,
     title: "FAQs",
-    link: "https://www.khalsafamilyretreat.co.uk/faqs/",
+    link: "/faqs/",
   },
   {
     id: 3,
     title: "Terms & Conditions",
-    link: "https://www.khalsafamilyretreat.co.uk/terms/",
+    link: "/terms/",
   },
   {
     id: 4,
     title: "Virtual sessions live from KFR",
-    link: "https://www.khalsafamilyretreat.co.uk/virtualkfr/",
+    link: "/virtualkfr/",
   },
 ];
 const icons = [
@@ -202,7 +202,7 @@ const icons = [
   },
   {
     id: 6,
-    link: "/whatsapp://send?text=Hey. Check out this Sikhi camp... https%3A%2F%2Fwww.khalsafamilyretreat.co.uk%2F",
+    link: "https://www.linkedin.com/company/khalsafoundation/",
     icon: <FaWhatsapp />,
   },
 ];

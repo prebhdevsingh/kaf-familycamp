@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import logo from "./img/logo_.svg";
+import logo from "./img/Khalsa-Family-Camp-02.png";
 import Image from "next/image";
 
 class Navbar extends React.Component {
@@ -9,26 +9,21 @@ class Navbar extends React.Component {
     this.state = {
       active: false,
       navBarActiveClass: "",
-      notification: true
+      notification: true,
     };
   }
   handleNotification() {
-    this.setState(
-      {
-        notification: false
-      }
-    )
+    this.setState({
+      notification: false,
+    });
   }
 
   toggleHamburger() {
-    // toggle the active boolean in the state
     this.setState(
       {
         active: !this.state.active,
       },
-      // after state has been updated,
       () => {
-        // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
             navBarActiveClass: "is-active",
@@ -41,80 +36,115 @@ class Navbar extends React.Component {
   }
 
   render() {
-    return (<>
-   
-      <nav
-        className="navbar is-transparent is-fixed-top-mobile has-background-light"
-        role="navigation"
-        aria-label="main-navigation"
-      >
+    return (
+      <>
+        <nav
+          className="navbar   is-transparent-tablet is-fixed-top "
+          role="navigation"
+          aria-label="main-navigation"
+        >
+          <div style={{ maxWidth: "100%" }} className="container">
+            <div className="navbar-brand py-1"
+              style={{ display: "flex", alignItems: "center" }}>
+              <Link href="/" className="navbar-item">
+                <div className="is-flex is-align-content-center	">
+                  <Image
+                    src="/Khalsa-Family-Camp-02.png"
+                    style={{
+                      maxHeight: "3.25rem",
+                    }}
+                    alt="Khalis Foundation"
+                    width={200}
+                    height={800}
+                  />
 
-        <div style={{ maxWidth: "96%" }} className="container"        >
-          <div className="navbar-brand">
-            <Link href="/" className="navbar-item">
-              <div style={{
-              }} className="is-flex is-align-content-center	">
-                <Image
-                  src={logo}
+                </div>
+              </Link>
+              <div
+                className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+                data-target="navMenu"
+                role="button"
+                tabIndex={0}
+              >
+                <div
                   style={{
-                    maxHeight: "3.25rem"
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "space-around",
                   }}
-                  alt="Khalis Foundation"
-                // style={{ width: "100px", height: "40px" }}
-                // width={100}
-                // height={600}
-                />
-                {/* <p className="is-size4 px-0">Sikh Youth Coding Initiative
-                </p> */}
+                >
+                  <button
+                    className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+                    onKeyPress={() => this.toggleHamburger()}
+                    onClick={() => this.toggleHamburger()}
+                  >
+                    <span />
+                    <span />
+                    <span />
+                  </button>
+                </div>
               </div>
-
-            </Link>
-            {/* <div
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              data-target="navMenu"
-              role="button"
-              tabIndex={0}
+            </div>
+            <div
+              id="navMenu "
+              className={`navbar-menu ${this.state.navBarActiveClass}`}
             >
-              <div style={{
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "space-around"
-              }}>
-                <button className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-                  onKeyPress={() => this.toggleHamburger()}
-                  onClick={() => this.toggleHamburger()}>
-                  <span />
-                  <span />
-                  <span />
-                </button>
+              <div className="navbar-end has-text-centered has-shadow pr-3">
+                {
+                  navData.map(({ id, pageName, links }) => {
+                    return (
+                      <Link key={id} href={links} className="navbar-item is-family-secondary nav-item has-text-white-tablet ">
+                          {pageName}
+                      </Link>
+                    );
+                  }
+                  )
+                }
+           
               </div>
-            </div> */}
+            </div>
           </div>
-          <div
-            id="navMenu "
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
-            {/* <div className="navbar-end has-text-centered has-shadow">
-              <Link
-                className="navbar-item is-family-secondary nav-item has-text-dark "
-                href="/"
-              >
-                HOME
-              </Link>
-              <Link
-                className="navbar-item is-family-secondary nav-item has-text-dark"
-                href="https://shop.khal.is/"
-              >
-                SHOP
-              </Link>
-            </div>  */}
-          </div>
-        </div>
-        <span />
-      </nav>
-    </>
+          <span />
+        </nav>
+      </>
     );
   }
-};
+}
 
 export default Navbar;
+
+const navData = [
+  {
+    id: 1,
+    pageName: "Home",
+    links: "/",
+  },
+  {
+    id: 2,
+    pageName: "About",
+    links: "#about",
+  },
+  {
+    id: 3,
+    pageName: "FAQs",
+    links:
+      "/faqs/",
+  },
+  {
+    id: 4,
+    pageName: "Donate",
+    links:
+      "/donate/",
+  },
+];
+{
+  /* <div className="drawerLinks">
+              {navData.map(({ id, pageName, links }) => {
+                return (
+                  <Link key={id} href={links}>
+                    {pageName}
+                  </Link>
+                );
+              })}
+            </div> */
+}
