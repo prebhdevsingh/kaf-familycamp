@@ -24,7 +24,7 @@ const Parallex = ({ title, heading, sub_heading, links }) => {
                 </p>
               </div>
               <div className="buttons-container">
-              <div  className="mb-4   btn4">
+                <div className="mb-4   btn4">
                   <p>
                     THE <span className="custom-font-weight-900">RETREAT</span>
                   </p>
@@ -32,15 +32,13 @@ const Parallex = ({ title, heading, sub_heading, links }) => {
                 {
                   links?.map((link, index) => {
                     return (
-                      <Link key={index} href={link?.url} className={`mb-5 btn btn${index+1} is-size-6`}>
-                     
-                          {link?.linkText}
-                      
+                      <Link key={index} href={link?.url} className={`mb-5 btn btn${index + 1} is-size-6`}>
+                        {link?.linkText}
                       </Link>
                     )
                   })
                 }
-              
+
                 {/* <Link href="/" className="">
                   Adult registration
                 </Link>

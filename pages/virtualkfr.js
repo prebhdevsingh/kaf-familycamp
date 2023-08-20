@@ -4,6 +4,7 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import PostContent from '../components/Content'
+import { marked } from 'marked'
 
 const VirtualKFR = ({ frontmatter, content }) => {
   return (
@@ -21,7 +22,7 @@ const VirtualKFR = ({ frontmatter, content }) => {
             }</h1>
 
             <div className='py-3'>
-              <PostContent className='has-text-left	' content={content} />
+              <PostContent className='has-text-left	' content={marked(content)} />
             </div>
 
 

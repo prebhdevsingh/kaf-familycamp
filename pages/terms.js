@@ -3,7 +3,8 @@ import SEO from '../components/SEO'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
-import PostContent from '../components/Content'
+import {HTMLContent} from '../components/Content'
+import { marked } from 'marked'
 
 const Terms = ({ frontmatter, content }) => {
   return (<>
@@ -14,7 +15,7 @@ const Terms = ({ frontmatter, content }) => {
           <div class="container has-text-left">
             <h1 class="is-size-2">{frontmatter?.title}</h1>
             <div className='py-3'>
-              <PostContent className='has-text-left	' content={content} />
+              <HTMLContent className='has-text-left	' content={marked(content)} />
             </div>
           </div>
         </div>

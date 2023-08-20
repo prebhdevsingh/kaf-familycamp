@@ -3,7 +3,6 @@ import SEO from '../components/SEO'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
-import PostContent from '../components/Content'
 
 const FAQ = ({ frontmatter }) => {
   return (
