@@ -10,7 +10,6 @@ export default function PostPage({
     frontmatter: { title, date, featuredimage, categories, tags },
     content,
 }) {
-    console.log("content", content)
     return (<>
         <SEO title={title} />
         <section className="section">

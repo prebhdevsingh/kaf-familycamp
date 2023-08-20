@@ -6,7 +6,6 @@ import matter from 'gray-matter'
 import PostContent from '../components/Content'
 
 const FAQ = ({ frontmatter }) => {
-  console.log("frontmatter===>", frontmatter)
   return (
     <>
       <SEO title='FAQs' />
@@ -47,10 +46,8 @@ const FAQ = ({ frontmatter }) => {
 export default FAQ
 
 export async function getStaticProps({ params }) {
-  console.log("params______", params)
   const markdownWithMeta = fs.readFileSync(path.join('content', 'faqs' + '.md'), 'utf-8')
   const { data: frontmatter, } = matter(markdownWithMeta)
-  console.log("frontmatter", frontmatter)
   return {
     props: {
       frontmatter: {

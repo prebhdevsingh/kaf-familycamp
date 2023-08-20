@@ -6,7 +6,6 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 const Home = ({ frontmatter }) => {
-  console.log("frontmatter===>", frontmatter)
 
   return (
     <div className="relative">
@@ -24,7 +23,6 @@ export default Home;
 export async function getStaticProps() {
   const markdownWithMeta = fs.readFileSync(path.join('content', 'index' + '.md'), 'utf-8')
   const { data: frontmatter, } = matter(markdownWithMeta)
-  console.log("frontmatter", frontmatter)
   return {
     props: {
       frontmatter: {

@@ -6,7 +6,6 @@ import matter from 'gray-matter'
 import PostContent from '../components/Content'
 
 const Terms = ({ frontmatter, content }) => {
-  console.log("frontmatter===>", frontmatter)
   return (<>
     <SEO title='Terms and Conditions' />
     <div class="container " style={{ paddingTop: "5rem" }}>
@@ -27,10 +26,8 @@ const Terms = ({ frontmatter, content }) => {
 export default Terms
 
 export async function getStaticProps({ params }) {
-  console.log("params______", params)
   const markdownWithMeta = fs.readFileSync(path.join('content', 'terms' + '.md'), 'utf-8')
   const { data: frontmatter, content } = matter(markdownWithMeta)
-  console.log("frontmatter", frontmatter)
   return {
     props: {
       frontmatter: {

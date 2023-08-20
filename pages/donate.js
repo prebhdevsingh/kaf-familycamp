@@ -41,10 +41,8 @@ const Donate = ({ frontmatter, content }) => {
 
 export default Donate
 export async function getStaticProps({ params }) {
-  console.log("params______", params)
   const markdownWithMeta = fs.readFileSync(path.join('content', 'donate' + '.md'), 'utf-8')
   const { data: frontmatter, content } = matter(markdownWithMeta)
-  console.log("frontmatter", frontmatter)
   return {
     props: {
       frontmatter: {
