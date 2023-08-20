@@ -32,7 +32,7 @@ const Parallex = ({ title, heading, sub_heading, links }) => {
                 {
                   links?.map((link, index) => {
                     return (
-                      <Link href={link?.url} className={`mb-5 btn btn${index+1} is-size-6`}>
+                      <Link key={index} href={link?.url} className={`mb-5 btn btn${index+1} is-size-6`}>
                      
                           {link?.linkText}
                       

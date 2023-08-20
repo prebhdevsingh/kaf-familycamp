@@ -22,7 +22,7 @@ const FAQ = ({ frontmatter }) => {
                     {
                       frontmatter?.faqs.map((faq, index) => {
                         return (
-                          <div
+                          <div key={index}
                             className=" has-text-black py-2 my-5 is-flex is-flex-direction-column	 is-justify-content-center is-align-items-start"
                           >
                             <p className='is-size-4'> {`Q No.${index + 1}: ${faq?.question}`} </p>
