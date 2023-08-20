@@ -3,7 +3,7 @@ import SEO from '../components/SEO'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
-import PostContent from '../components/Content'
+import {HTMLContent} from '../components/Content'
 import {marked} from 'marked'
 const Donate = ({ frontmatter, content }) => {
   return (<>
@@ -20,7 +20,7 @@ const Donate = ({ frontmatter, content }) => {
             }</h1>
 
             <div className='py-3'>
-              <PostContent className='has-text-left	' content={marked(content)} />
+            <HTMLContent className='has-text-left	' content={marked(content)} />
             </div>
             <div class="column has-text-left">
               <p>
