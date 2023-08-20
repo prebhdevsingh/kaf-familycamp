@@ -52,51 +52,96 @@ collections:
     label: "Pages"
     files:
       - file: "content/index.md"
-        label: "Landing Page"
-        name: "index"
+        label: "Home"
+        name: "home"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "index-page",
-            }
-          - { label: Title, name: title, widget: string }
-          - { label: "Description", name: "description", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
-
-      - file: "content/faqs.md"
-        label: "Faqs"
-        name: "faq"
-        fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "faqs-page",
-            }
-          - { label: "Date", name: "date", widget: "date" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Description", name: "description", widget: "string" }
-
-      - file: "content/about.md"
-        label: "About"
-        name: "about"
-        fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "about-page",
-            }
           - {
               label: "Thumbnail",
               name: "thumbnail",
               widget: image,
               choose_url: false,
             }
-          - { label: "Date", name: "date", widget: "date" }
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Heading", name: "heading", widget: "string" }
+          - { label: "Sub-Heading", name: "sub_heading", widget: "string" }
+          - {
+              label: "Links",
+              name: "links",
+              widget: "list",
+              fields: [
+                { label: "Link Text",name: "linkText", widget: "string" },
+                { label: "Link URL", name: "url", widget: "string" },
+              ],
+          }
+          - { label: "Regisration Heading", name: "registrationHeading", widget: "string" }
+          - { label: "Regisration text", name: "registrationText", widget: "string" }
+          - { label: "Regisration Info", name: "registrationInfo", widget: "string" }
+          - {
+            label: "quotes",
+            name: "quotes",
+            widget: "list",
+            fields: [
+              { label: "Image", name: "Image", widget: image, choose_url: false, },
+              { label: "Title", name: "title", widget: "string" },
+              { label: "Quote", name: "quote", widget: "markdown" },
+            ],
+          }
+
+      - file: "content/faqs.md"
+        label: "Frequently Asked Questions"
+        name: "faqs"
+        fields:
+          - {
+              label: "Thumbnail",
+              name: "thumbnail",
+              widget: image,
+              choose_url: false,
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "FAQs",
+              name: "faqs",
+              widget: "list",
+              fields: [
+                { label: "Question", name: "question", widget: "string" },
+                { label: "Answer", name: "answer", widget: "string" },
+              ],
+          }
+      - file: "content/virtualkfr.md"
+        label: "Virtual KFR"
+        name: "virtualkfr"
+        fields:
+          - {
+              label: "Thumbnail",
+              name: "thumbnail",
+              widget: image,
+              choose_url: false,
+            }
+          - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Numbering", name: "number", widget: "number" }
+
+      - file: "content/donate.md"
+        label: "Donate Us"
+        name: "donate"
+        fields:
+          - {
+              label: "Thumbnail",
+              name: "thumbnail",
+              widget: image,
+              choose_url: false,
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+
+      - file: "content/terms.md"
+        label: "Terms and Conditions"
+        name: "terms"
+        fields:
+          - {
+              label: "Thumbnail",
+              name: "thumbnail",
+              widget: image,
+              choose_url: false,
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }

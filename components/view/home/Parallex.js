@@ -4,7 +4,7 @@ import { Parallax, Background } from "react-parallax";
 
 const image1 = "/web/KFR-2019-website-low-res.png";
 
-const Parallex = () => {
+const Parallex = ({ title, heading, sub_heading, links }) => {
   return (
     <div className="app-container">
       <Parallax bgImage={image1} strength={500}>
@@ -16,21 +16,32 @@ const Parallex = () => {
               </div>
               <div className="container-desc mb-2 bg-blue has-text-white">
                 <p className="has-text-white is-size-3 sm-font-30 p-1 sm-text-center sm-registrion">
-                  Registration is now open
+                  {heading}
                   <br />
-                  <span className="text-yellow">
-                    Monday 20th to Thursday 23rd December 2021
+                  <span className="text-yellow mt-2">
+                    {sub_heading}
                   </span>
                 </p>
               </div>
               <div className="buttons-container">
-                <Link href="/" className="mb-4   btn4">
+              <div  className="mb-4   btn4">
                   <p>
-                    {" "}
                     THE <span className="custom-font-weight-900">RETREAT</span>
                   </p>
-                </Link>
-                <Link href="/" className="mb-5 btn btn1 is-size-6">
+                </div>
+                {
+                  links?.map((link, index) => {
+                    return (
+                      <Link href={link?.url} className={`mb-5 btn btn${index+1} is-size-6`}>
+                     
+                          {link?.linkText}
+                      
+                      </Link>
+                    )
+                  })
+                }
+              
+                {/* <Link href="/" className="">
                   Adult registration
                 </Link>
                 <Link href="/" className="mb-5 btn btn2 is-size-6">
@@ -39,7 +50,7 @@ const Parallex = () => {
                 <Link href="/" className="mb-4 btn btn3 is-size-6">
                   Unable to attend in person? Register for some virtual sessions
                   live from KFR
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>

@@ -78,7 +78,7 @@ const Footer = () => {
                     width="360"
                     height="203"
                     className="sm-w-280px"
-                    src="https://web.archive.org/web/20211020075145if_/https://www.youtube.com/embed/-uy5JRbNA34?feature=oembed"
+                    src="https://www.youtube.com/embed/-uy5JRbNA34?feature=oembed"
                   ></iframe>
                 </div>
               </div>

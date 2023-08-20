@@ -8,9 +8,9 @@ import PostContent from '../../components/Content'
 import SEO from '../../components/SEO'
 export default function PostPage({
     frontmatter: { title, date, featuredimage, categories, tags },
-    slug,
     content,
 }) {
+    console.log("content", content)
     return (<>
         <SEO title={title} />
         <section className="section">
@@ -29,11 +29,10 @@ export default function PostPage({
                     <h1 className="is-size-2 has-text-dark post-heading pt-3">{title}</h1>
 
                     <div>
-                        <p className='is-size-7	is-italic	'>{new Date(date).toDateString()}</p>
+                        <p className='is-size-7	is-italic'>{new Date(date).toDateString()}</p>
                     </div>
                     <div className='py-3'>
-                    <PostContent className='has-text-left	' content={content} />
-
+                        <PostContent className='has-text-left' content={content} />
                     </div>
 
 

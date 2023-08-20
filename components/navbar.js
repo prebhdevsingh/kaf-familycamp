@@ -1,6 +1,5 @@
 import React from "react";
 import Link from "next/link";
-import logo from "./img/Khalsa-Family-Camp-02.png";
 import Image from "next/image";
 
 class Navbar extends React.Component {
@@ -122,7 +121,7 @@ const navData = [
   {
     id: 2,
     pageName: "About",
-    links: "#about",
+    links: "/#about",
   },
   {
     id: 3,
@@ -137,14 +136,3 @@ const navData = [
       "/donate/",
   },
 ];
-{
-  /* <div className="drawerLinks">
-              {navData.map(({ id, pageName, links }) => {
-                return (
-                  <Link key={id} href={links}>
-                    {pageName}
-                  </Link>
-                );
-              })}
-            </div> */
-}
