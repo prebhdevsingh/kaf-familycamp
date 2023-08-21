@@ -93,13 +93,13 @@ class Navbar extends React.Component {
                   navData.map(({ id, pageName, links }) => {
                     return (
                       <Link key={id} href={links} className="navbar-item is-family-secondary nav-item has-text-white-tablet ">
-                          {pageName}
+                        {pageName}
                       </Link>
                     );
                   }
                   )
                 }
-           
+
               </div>
             </div>
           </div>
@@ -132,7 +132,6 @@ const navData = [
   {
     id: 4,
     pageName: "Donate",
-    links:
-      "/donate/",
+    links: "https://www.khalsafoundation.org/donate/",
   },
 ];

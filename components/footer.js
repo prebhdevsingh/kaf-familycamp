@@ -160,7 +160,7 @@ const col3Data = [
   {
     id: 1,
     title: "Donate",
-    link: "/donate/",
+    link: "https://www.khalsafoundation.org/donate/",
   },
   {
     id: 2,
@@ -198,7 +198,7 @@ const icons = [
   },
   {
     id: 6,
-    link: "https://www.linkedin.com/company/khalsafoundation/",
+    link: "https://wa.me/+447503295233/?text=Hi%20Khalsa%20Foundation%20Team%2C%20I%20would%20like%20to%20know%20more%20about%20your%20work.",
     icon: <FaWhatsapp />,
   },
 ];
