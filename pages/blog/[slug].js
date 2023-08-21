@@ -65,7 +65,6 @@ export async function getStaticProps({ params: { slug } }) {
     )
 
     const { data: frontmatter, content } = matter(markdownWithMeta)
-
     return {
         props: {
             frontmatter: {

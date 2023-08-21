@@ -5,12 +5,10 @@ heading: Registration is now open
 sub_heading: Monday 20th to Thursday 23rd December 2021
 links:
   - linkText: Adult registration
-    url: https://google.com/Adultregistration
+    url: https://form.jotform.com/222273685301351
   - linkText: Childern registration
-    url: https://google.com/Adultregistration
-  - linkText: Unable to attend in person? Register for some virtual sessions live
-      from KFR
-    url: https://google.com/Adultregistration
+    url: https://form.jotform.com/222273425360348
+
 registrationHeading: REGISTRATION IS NOW OPEN FOR KFR 2021
 registrationText: This year's retreat takes place from Monday 20th to Thursday
   23rd December 2021.

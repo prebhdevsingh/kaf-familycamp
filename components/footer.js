@@ -172,11 +172,7 @@ const col3Data = [
     title: "Terms & Conditions",
     link: "/terms/",
   },
-  {
-    id: 4,
-    title: "Virtual sessions live from KFR",
-    link: "/virtualkfr/",
-  },
+
 ];
 const icons = [
   {
