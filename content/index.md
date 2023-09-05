@@ -2,16 +2,15 @@
 thumbnail: /img/kfr-2019-website-low-res.png
 title: KHALSA FAMILY RETREAT
 heading: Registration is now open
-sub_heading: Monday 20th to Thursday 23rd December 2021
+sub_heading: Wednesday 27th to Saturday 30th December 2023
 links:
   - linkText: Adult registration
     url: https://form.jotform.com/222273685301351
   - linkText: Childern registration
     url: https://form.jotform.com/222273425360348
-
-registrationHeading: REGISTRATION IS NOW OPEN FOR KFR 2021
-registrationText: This year's retreat takes place from Monday 20th to Thursday
-  23rd December 2021.
+registrationHeading: REGISTRATION IS NOW OPEN FOR KFR 2023
+registrationText: This year's retreat takes place from Wednesday 27th to
+  Saturday 30th December 2023.
 registrationInfo: The retreat registration is now open, to register click on the
   links above for adult and children registration. To make a donation towards
   KFR click on the button below.
