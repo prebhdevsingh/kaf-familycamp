@@ -78,4 +78,16 @@ faqs:
       management - managing the Khalsa Foundation shop setup during KFR;
       Activities - planning and delivering activities for all delegates - these
       are all just to name a few!"
+  - question: I own a business, am I able to put up a stall at KFR?
+    answer: No, we do not allow anyone to sell products or goods at KFR other than
+      Khalsa Foundation or our affiliated charity partners.
+  - question: How do I become an affiliated partner of Khalsa Foundation?
+    answer: If you are a registered charity, get in touch on projects we can
+      collaborate on and we will look to build a workshop relationship with you.
+  - question: My business is Sikhi based, would it be okay for me to sell my
+      products at KFR?
+    answer: "No, we do not allow anyone to sell products or goods at KFR other than
+      Khalsa Foundation or our affiliated charity partners. If you have Sikhi
+      based products, then get in touch and we can discuss whether Khalsa
+      Foundation may be able to sell them on your behalf. "
 ---
