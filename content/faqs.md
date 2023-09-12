@@ -90,4 +90,7 @@ faqs:
       Khalsa Foundation or our affiliated charity partners. If you have Sikhi
       based products, then get in touch and we can discuss whether Khalsa
       Foundation may be able to sell them on your behalf. "
+  - question: Can I raise awareness of Sikh course I run at KFR?
+    answer: No, we do not allow advertising of courses which may involve a cost and
+      are not run by an affiliated charity partner.
 ---
