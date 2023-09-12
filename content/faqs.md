@@ -45,4 +45,37 @@ faqs:
       dinner and activities at Khalsa Family Retreat. You may wish to bring some
       money with you to purchase items at the event on our stalls and to make
       donations towards Khalsa Family Retreat.
+  - question: Can I get a discount?
+    answer: Khalsa Family Retreat runs of a deficit and we look to do fundraising at
+      KFR as well as throughout the year to make out the financial shortfall.
+      Whilst we are not able to offer discounts, if a family is struggling
+      financially, they should reach out to us via email and we will look to
+      help where possible on a case by case basis.
+  - question: I am travelling from outside the UK, do you provide transport?
+    answer: We do not provide transport to and from KFR, however for anyone
+      travelling from abroad, please get in touch via email and we will look to
+      see if we can provide any assistance.
+  - question: I am a student, can I attend?
+    answer: Yes students are welcome, however Khalsa Family Retreat is geared
+      towards family learning together, so we would encourage to attend
+      alongside your family.
+  - question: What is provide inside the room?
+    answer: The rooms will vary depending on the venue we use, but in general you
+      will have beds (bunk beds), an ensuite (generally a bathtub with a
+      shower), mirror and cupboard. Outside the rooms, there will be a communal
+      area for your dorm, which will have a kettle, fridge and washing up
+      facilities for dishes.
+  - question: I would like to help with Seva (volunteering), how can I do this?
+    answer: Sevadars are always welcome, drop us an email at
+      kfr@khalsafoundation.org and we will be in touch. Let us know what you
+      would like to help with and some of the skills you feel you can bring to
+      the team.
+  - question: What areas of Seva can I get involved with?
+    answer: "The list is endless, but here are some areas: Langar Seva - planning,
+      purchasing, cooking Langar; Creche - helping our Creche team with the
+      young children; Workshops - helping deliver workshops to children;
+      Logistics - planning the delivery of all our equipment onto site; Stall
+      management - managing the Khalsa Foundation shop setup during KFR;
+      Activities - planning and delivering activities for all delegates - these
+      are all just to name a few!"
 ---
