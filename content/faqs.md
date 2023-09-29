@@ -23,7 +23,11 @@ faqs:
       subsidise our events, with the retreat not making a profit and running on
       a loss. This is done so that families can afford to attend get the
       opportunity to attend. We seek to make up any losses through generous
-      donations from the Sadh Sangat. "
+      donations from the Sadh Sangat. For KFR the opening fee for early
+      registration will be £150 for anyone over 13 years old and £90 for anyone
+      under 12 years old with those under 2 attending for free. This will be for
+      a limited time so register before the deadline, all the latest offers will
+      be available via the registration form. "
   - question: I have a baby, do I have to pay?
     answer: Children who are aged 2 and under are free. Children aged between 3 and
       12-years-old will qualify for the child rate.
