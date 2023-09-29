@@ -5,7 +5,7 @@ heading: Registration is now open
 sub_heading: Wednesday 27th to Saturday 30th December 2023
 links:
   - linkText: Register now
-    url: https://eu.jotform.com/app/232677131018351
+    url: https://form.jotform.com/232672553056356
 registrationHeading: REGISTRATION IS NOW OPEN FOR KFR 2023
 registrationText: This year's retreat takes place from Wednesday 27th to
   Saturday 30th December 2023.
