@@ -93,4 +93,11 @@ faqs:
   - question: Can I raise awareness of Sikh course I run at KFR?
     answer: No, we do not allow advertising of courses which may involve a cost and
       are not run by an affiliated charity partner.
+  - question: What support is there for my child who has neurodiversity needs?
+    answer: Whilst we are limited in being able to cater for everything, for KFR
+      2023, we have made arrangements to accommodate Neurodiverse children more
+      comfortably than in previous years. This will be shown in the application
+      process. What this means is that we will look to cater, where possible,
+      specialist session for those children who have neurodiversity needs such
+      as autism, ADHD, dyslexia etc.
 ---
