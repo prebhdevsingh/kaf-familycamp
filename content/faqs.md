@@ -11,6 +11,11 @@ faqs:
       families, regardless of whether you are at the start of your journey as a
       family exploring Sikhi or very advance. It is a chance to meet other
       families who are on the same journey as you.
+  - question: Where does Khalsa Family Retreat take place?
+    answer: "Generally Khalsa Family Retreat will take place in different venues
+      depending on the availability and costs. For December 2023, KFR will be
+      taking place in the Midlands in Litchfield which is between Birmingham and
+      Derby. "
   - question: Is Khalsa Family Retreat only for Sikhs?
     answer: No, anyone is welcome, from any background. Khalsa Family Retreat ethos
       is based solely on Sikhi and the Sikh way of life, to encourage everyone
@@ -39,6 +44,13 @@ faqs:
       accordingly. Like we have mentioned before, we look to keep our costs as
       long as possible to enable as many families to be able to afford the cost
       in order to attend.
+  - question: What support is there for my child who has neurodiversity needs?
+    answer: Whilst we are limited in being able to cater for everything, for KFR
+      2023, we have made arrangements to accommodate Neurodiverse children more
+      comfortably than in previous years. This will be shown in the application
+      process. What this means is that we will look to cater, where possible,
+      specialist session for those children who have neurodiversity needs such
+      as autism, ADHD, dyslexia etc.
   - question: What happens with the money I pay?
     answer: Khalsa Family Retreat is run by Khalsa Foundation, a registered UK
       charity, our accounts can be found online through the charity commission
@@ -55,6 +67,35 @@ faqs:
       Whilst we are not able to offer discounts, if a family is struggling
       financially, they should reach out to us via email and we will look to
       help where possible on a case by case basis.
+  - question: I am struggling to pay the cost in one go, can I get support?
+    answer: Please get in touch with us and we will look to support you with a
+      payment structure if you are struggling to pay in one lump sum.
+  - question: I can't afford the cost, can I still attend?
+    answer: Prices vary depending on when you book, but the aim of Khalsa Family
+      Retreat is to keep costs to a minimum for delegates. We generally
+      subsidise our events, with the retreat not making a profit and running on
+      a loss each year. This is done so that families can afford to attend get
+      the opportunity to attend. We seek to make up any losses through generous
+      donations from the Sadh Sangat. For KFR the opening fee for early
+      registration will be £150 for anyone over 13 years old and £90 for anyone
+      under 12 years old with those under 2 attending for free. This will be for
+      a limited time so register before the deadline, all the latest offers will
+      be available via the registration form. If you require any other
+      assistance in paying, please get in touch and we will look to help you
+      where we can.
+  - question: I only want to attend as a Sevadar, can I attend for free to do Seva?
+    answer: "Whilst we appreciate all Sevadars coming forward, we still have to pay
+      the venue for your accommodation and associated costs. All our Sevadars
+      are expected to cover the costs of their stay so that the charity is not
+      left at a disadvantage.   "
+  - question: Do you provide transport to and from the Khalsa Family Retreat venue?
+    answer: We do not provide transport to and from the venue. Delegates are
+      expected to make their own way there. We may be able to support picking
+      people up from a local train station, but you must get this agreed in
+      writing in advance of the event.
+  - question: Is there parking at the venue?
+    answer: There is ample free car parking available at the venue for those
+      registered for KFR.
   - question: I am travelling from outside the UK, do you provide transport?
     answer: We do not provide transport to and from KFR, however for anyone
       travelling from abroad, please get in touch via email and we will look to
@@ -97,11 +138,4 @@ faqs:
   - question: Can I raise awareness of Sikh course I run at KFR?
     answer: No, we do not allow advertising of courses which may involve a cost and
       are not run by an affiliated charity partner.
-  - question: What support is there for my child who has neurodiversity needs?
-    answer: Whilst we are limited in being able to cater for everything, for KFR
-      2023, we have made arrangements to accommodate Neurodiverse children more
-      comfortably than in previous years. This will be shown in the application
-      process. What this means is that we will look to cater, where possible,
-      specialist session for those children who have neurodiversity needs such
-      as autism, ADHD, dyslexia etc.
 ---
