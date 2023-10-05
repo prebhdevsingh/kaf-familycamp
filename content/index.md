@@ -1,7 +1,7 @@
 ---
 thumbnail: /img/kfr-2019-website-low-res.png
 title: KHALSA FAMILY RETREAT
-heading: Registration is now open
+heading: Registration is now open - sign up for early bird discount
 sub_heading: Wednesday 27th to Saturday 30th December 2023
 links:
   - linkText: Register now
