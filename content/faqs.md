@@ -1,11 +1,27 @@
 ---
 thumbnail: /img/image.png
-title: Frequenty Asked Question
+title: Frequently Asked Question
 faqs:
   - question: "What is Khalsa Family Retreat? "
-    answer: K﻿hasla Family Retreat is a residential event based in the UK aimed at
-      getting families together to explore Sikhi is a friendly, fun, relaxed and
-      non-judgemental environment.
+    answer: Khalsa Family Retreat is a residential event based in the UK aimed at
+      getting families together to explore Sikhi in a friendly, fun, relaxed and
+      non-judgemental environment. Khalsa Foundation created a residential event
+      aimed at families called Khalsa Family Retreat in 2017, which looks to
+      replicate the success of Khalsa Camp for the whole family, so instead of
+      focusing on the individuals, the focus is switched to the whole family and
+      their spirituality together. Khalsa Family Retreat consists of group
+      workshops about various aspects of Sikhi and family life. The workshops
+      aim to give the delegates an opportunity to explore Sikh concepts with
+      their family members whilst applying it to the real world.
+  - question: What is the difference between Khalsa Family Retreat and Khalsa Camp?
+    answer: Khalsa Family Retreat is tailored towards families learning about Sikhi
+      together and consists of a varied timetable. There are interactive adult
+      workshops, classes for children, creche for the little ones learning and a
+      baby creche for the very new members of the Khalsa family. Alongside this
+      there are a number of family sessions which are aimed at the whole family
+      conducting activities as a family unit. Khalsa Camp is a child free event,
+      aimed at individuals wanting to focus on their own Sikhi whilst connecting
+      with other like-minded individuals.
   - question: Who can attend Khalsa Family Retreat?
     answer: Anyone is the simple answer. Khalsa Family Retreat is open to all
       families, regardless of whether you are at the start of your journey as a
@@ -45,12 +61,14 @@ faqs:
       long as possible to enable as many families to be able to afford the cost
       in order to attend.
   - question: What support is there for my child who has neurodiversity needs?
-    answer: Whilst we are limited in being able to cater for everything, for KFR
+    answer: "Whilst we are limited in being able to cater for everything, for KFR
       2023, we have made arrangements to accommodate Neurodiverse children more
       comfortably than in previous years. This will be shown in the application
       process. What this means is that we will look to cater, where possible,
       specialist session for those children who have neurodiversity needs such
-      as autism, ADHD, dyslexia etc.
+      as autism, ADHD, dyslexia etc. We will have Sevadars prepare sessions
+      specifically designed to engage children with neurodiversity, we Sevadars
+      who have knowledge on neurodiversity leading the sessions. "
   - question: What happens with the money I pay?
     answer: Khalsa Family Retreat is run by Khalsa Foundation, a registered UK
       charity, our accounts can be found online through the charity commission
@@ -104,12 +122,15 @@ faqs:
     answer: Yes students are welcome, however Khalsa Family Retreat is geared
       towards family learning together, so we would encourage to attend
       alongside your family.
-  - question: What is provide inside the room?
+  - question: What is provided inside the room?
     answer: The rooms will vary depending on the venue we use, but in general you
       will have beds (bunk beds), an ensuite (generally a bathtub with a
       shower), mirror and cupboard. Outside the rooms, there will be a communal
       area for your dorm, which will have a kettle, fridge and washing up
       facilities for dishes.
+  - question: Are cots provided for babies in bedrooms?
+    answer: There may be limited cots on site, but we encourage anyone needing a cot
+      to bring their own travel cot with them.
   - question: I would like to help with Seva (volunteering), how can I do this?
     answer: Sevadars are always welcome, drop us an email at
       kfr@khalsafoundation.org and we will be in touch. Let us know what you
@@ -135,7 +156,54 @@ faqs:
       Khalsa Foundation or our affiliated charity partners. If you have Sikhi
       based products, then get in touch and we can discuss whether Khalsa
       Foundation may be able to sell them on your behalf. "
-  - question: Can I raise awareness of Sikh course I run at KFR?
+  - question: Can I raise awareness of Sikh courses I run at KFR?
     answer: No, we do not allow advertising of courses which may involve a cost and
       are not run by an affiliated charity partner.
+  - question: What should I bring with me to Khalsa Family Retreat?
+    answer: A welcome pack will be emailed to you with all the details you need a
+      few weeks prior to Khalsa Family Retreat starting. This will have times to
+      arrive, what to bring, where to go etc. all the details you need. If
+      anything is not answered there or in the FAQs then drop us an email.
+  - question: What happens when I arrive at Khalsa Family Retreat?
+    answer: When you arrive at KFR, there will be light refreshments available, you
+      will be signed in and you will be allocated a room. You will be able to
+      check-in to your room and be given some time to unpack and freshen up.
+      There will then be an introductory talk, followed by Kirtan, Rehras
+      (evening prayer) and Langar.
+  - question: Do I need to bring any money with me to Khalsa Family Retreat?
+    answer: There will be a stall at KFR that will be selling books, clothing,
+      Kirpans, and other items you may wish to purchase. You may also wish to
+      make a donation towards the costs of running KFR.
+  - question: What food will we be getting during the week?
+    answer: The food will be a mix of Eastern and Western diets that should be
+      suitable for everyone.
+  - question: Will I have access to the Internet?
+    answer: Yes, there will be free wifi provided, but this is an opportunity to get
+      away for technology and connect with our families, we encourage everyone
+      not to waste that chance.
+  - question: Will there be activities and can I take part in the activities?
+    answer: "Yes, there will be a number of activities throughout the retreat for
+      you and your family to participate in. More details of these will be
+      provided when you arrive at the venue in the welcome talk. "
+  - question: What clothes should I bring?
+    answer: We encourage you to bring wheather appropriate clothing and footwear.
+      Please also note there will may be opportunities to have family portraits
+      taken, so you may wish to bring some special clothes for this.
+  - question: "Can I have someone visit me at Khalsa Family Retreat? "
+    answer: Unauthorised visitors will not be allowed on the KFR site. If you
+      need/expect to be visited at KFR you need to arrange this with one of the
+      Sevadars.
+  - question: What do I need to do if I want to do some Seva?
+    answer: Anyone wishing to carry out any Seva (service) such as Chaur Sahib,
+      Kirtan and Ardas (or any other Seva) must ensure that they have showered
+      and are wearing clean Bana (traditional Sikh dress where possible). If you
+      do not have bana, a Sevadar can provide this. You will also be required to
+      cover your head. If you would like your child to be given the opportunity
+      to do Seva, then please speak with one of the Sevadars.
+  - question: Can I leave my children in the Creche?
+    answer: You’re welcome to drop off your children to KFR Crèche if they’re aged
+      between 3 and 5-years-old, but they will need to be toilet trained. For
+      parents who have children under the age of 3, there will be a seperate
+      baby room crèche which you are welcome to use. Some toys and books will be
+      provided but we ask you to stay with your child when using this room.
 ---
