@@ -217,4 +217,11 @@ faqs:
       do not have bana, a Sevadar can provide this. You will also be required to
       cover your head. If you would like your child to be given the opportunity
       to do Seva, then please speak with one of the Sevadars.
+  - question: "Will Langar cater for my food allergies? "
+    answer: During the application process you will be asked about any allergies you
+      may have, it is vital you add these there so we can cater for you. During
+      KFR if you have any special dietary requirements, you will be able to let
+      the Langar Sevadars know before each meal. They will be prepared with the
+      relevant food based dietary requirements which you put in your application
+      form and there will be Langar made for your requirements where necessary.
 ---
