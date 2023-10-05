@@ -27,6 +27,9 @@ faqs:
       families, regardless of whether you are at the start of your journey as a
       family exploring Sikhi or very advance. It is a chance to meet other
       families who are on the same journey as you.
+  - question: Are there any age restrictions to attend Khalsa Family Retreat?
+    answer: There are no age restrictions in attending Khalsa Family Retreat, from
+      new born babies to great grandparents, all are welcome.
   - question: Where does Khalsa Family Retreat take place?
     answer: "Generally Khalsa Family Retreat will take place in different venues
       depending on the availability and costs. For December 2023, KFR will be
@@ -106,6 +109,10 @@ faqs:
       the venue for your accommodation and associated costs. All our Sevadars
       are expected to cover the costs of their stay so that the charity is not
       left at a disadvantage.   "
+  - question: What is your cancellation policy?
+    answer: "All booking are done on a non-refundable basis - you should only book
+      if you are certain you will be attending. Further details can be found in
+      our terms and conditions. "
   - question: Do you provide transport to and from the Khalsa Family Retreat venue?
     answer: We do not provide transport to and from the venue. Delegates are
       expected to make their own way there. We may be able to support picking
