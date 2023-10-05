@@ -110,7 +110,7 @@ faqs:
       are expected to cover the costs of their stay so that the charity is not
       left at a disadvantage.   "
   - question: What is your cancellation policy?
-    answer: "All booking are done on a non-refundable basis - you should only book
+    answer: "All bookings are done on a non-refundable basis - you should only book
       if you are certain you will be attending. Further details can be found in
       our terms and conditions. "
   - question: Do you provide transport to and from the Khalsa Family Retreat venue?
@@ -204,7 +204,7 @@ faqs:
       provided when you arrive at the venue in the welcome talk. "
   - question: What clothes should I bring?
     answer: We encourage you to bring wheather appropriate clothing and footwear.
-      Please also note there will may be opportunities to have family portraits
+      Please also note there will be opportunities to have family portraits
       taken, so you may wish to bring some special clothes for this.
   - question: "Can I have someone visit me at Khalsa Family Retreat? "
     answer: Unauthorised visitors will not be allowed on the KFR site. If you
@@ -224,4 +224,11 @@ faqs:
       the Langar Sevadars know before each meal. They will be prepared with the
       relevant food based dietary requirements which you put in your application
       form and there will be Langar made for your requirements where necessary.
+  - question: What happens if I or one of my family members gets unwell?
+    answer: "You should bring any medication you require with you to Khalsa Family
+      Retreat. We are not able to provide you with any medication, therefore you
+      may need to travel to a local shop to get the relevant medication you
+      require. If your condition is considered contagious e.g. chickenpox - you
+      will be asked to leave the venue. More information is available on our
+      terms and conditions page. "
 ---
