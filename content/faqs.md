@@ -131,6 +131,12 @@ faqs:
   - question: Are cots provided for babies in bedrooms?
     answer: There may be limited cots on site, but we encourage anyone needing a cot
       to bring their own travel cot with them.
+  - question: Can I leave my children in the Creche during the day?
+    answer: You’re welcome to drop off your children to KFR Crèche if they’re aged
+      between 3 and 5-years-old, but they will need to be toilet trained. For
+      parents who have children under the age of 3, there will be a seperate
+      baby room crèche which you are welcome to use. Some toys and books will be
+      provided but we ask you to stay with your child when using this room.
   - question: I would like to help with Seva (volunteering), how can I do this?
     answer: Sevadars are always welcome, drop us an email at
       kfr@khalsafoundation.org and we will be in touch. Let us know what you
@@ -200,10 +206,4 @@ faqs:
       do not have bana, a Sevadar can provide this. You will also be required to
       cover your head. If you would like your child to be given the opportunity
       to do Seva, then please speak with one of the Sevadars.
-  - question: Can I leave my children in the Creche?
-    answer: You’re welcome to drop off your children to KFR Crèche if they’re aged
-      between 3 and 5-years-old, but they will need to be toilet trained. For
-      parents who have children under the age of 3, there will be a seperate
-      baby room crèche which you are welcome to use. Some toys and books will be
-      provided but we ask you to stay with your child when using this room.
 ---
