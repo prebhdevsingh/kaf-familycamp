@@ -131,6 +131,10 @@ faqs:
   - question: Are cots provided for babies in bedrooms?
     answer: There may be limited cots on site, but we encourage anyone needing a cot
       to bring their own travel cot with them.
+  - question: I have a baby, will there be milk accessible and heating facilities?
+    answer: Each accommodation area will have a small kitchenette with a fridge that
+      will have milk in it. There will also be a microwave and kettle with
+      relevant cups available for anyone wishing to make tea or coffee.
   - question: Can I leave my children in the Creche during the day?
     answer: You’re welcome to drop off your children to KFR Crèche if they’re aged
       between 3 and 5-years-old, but they will need to be toilet trained. For
