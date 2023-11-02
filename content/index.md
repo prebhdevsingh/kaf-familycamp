@@ -1,18 +1,16 @@
 ---
 thumbnail: /img/kfr-2019-website-low-res.png
 title: KHALSA FAMILY RETREAT
-heading: Registrations for KFR23 are currently being check - you can register
-  for the waiting list now to secure a place should it become available
+heading: KFR23 is now fully booked!
 sub_heading: Wednesday 27th to Saturday 30th December 2023
 links:
   - linkText: Apply for the waiting list
     url: https://eu.jotform.com/232882125407354
-registrationHeading: REGISTRATION IS NOW OPEN FOR KFR 2023
+registrationHeading: KFR 2023 is now fully booked!
 registrationText: This year's retreat takes place from Wednesday 27th to
   Saturday 30th December 2023.
-registrationInfo: The retreat registration is now open, to register click on the
-  links above for adult and children registration. To make a donation towards
-  KFR click on the button below.
+registrationInfo: The retreat registration is now closed as we are fully booked.
+  To make a donation towards KFR click on the button below.
 quotes:
   - Image: /img/kfr-2019-website-low-res.png
     title: For The Whole Family
