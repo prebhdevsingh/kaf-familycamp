@@ -129,6 +129,10 @@ faqs:
     answer: Yes students are welcome, however Khalsa Family Retreat is geared
       towards family learning together, so we would encourage to attend
       alongside your family.
+  - question: How are rooms allocated?
+    answer: Each booking will be provide an ensuite room for their family, which
+      will be pre-allocated before Khalsa Family Retreat and the details emailed
+      to the lead delegate who made the booking.
   - question: What is provided inside the room?
     answer: The rooms will vary depending on the venue we use, but in general you
       will have beds (bunk beds), an ensuite (generally a bathtub with a
@@ -231,4 +235,24 @@ faqs:
       require. If your condition is considered contagious e.g. chickenpox - you
       will be asked to leave the venue. More information is available on our
       terms and conditions page. "
+  - question: Can I be allocated more than one room?
+    answer: Generally the answer is no, as rooms are mainly made up of between 4 to
+      7 beds and are allocated depending on the make up of your family e.g. if
+      you have 5 members in your family, you will be allocated a room with 5
+      beds, if rooms with 5 beds are fully allocated, then you will be allocated
+      a room with 6 beds etc.
+  - question: Do you offer single occupancy rooms?
+    answer: No. If this is something you would like, you would need to contact us
+      and get an agreement in place beforehand. You will need to also pay for
+      the extra beds in your room as a surcharge e.g. if you would like a single
+      occupancy room, which has 4 beds in it, you will need to pay for the extra
+      3 beds which are not being used in addition to your own booking. There are
+      no one bed bedrooms at the sites we use.
+  - question: What is the make up of bedrooms? Are they singles, doubles or king size?
+    answer: Depending on the site  it can vary, but currently, the sites we use are
+      made up of single beds/bunk beds only. So for example a bedroom with 4
+      beds will contain 2 single beds and 1 bunk bed; a bedroom with 5 beds will
+      contain 1 single bed and 2 bunk beds; a bedroom with 6 beds will contain 3
+      bunk beds; and a bedroom with 7 beds will contain 1 single bed and 3 bunk
+      beds.
 ---
