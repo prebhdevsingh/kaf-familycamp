@@ -153,6 +153,10 @@ faqs:
       contain 1 single bed and 2 bunk beds; a bedroom with 6 beds will contain 3
       bunk beds; and a bedroom with 7 beds will contain 1 single bed and 3 bunk
       beds.
+  - question: Do you offer accessible rooms with relevant facilities?
+    answer: Yes, there will be some accessible rooms available. You should make it
+      known during your booking you require this to ensure you are allocated the
+      relevant room.
   - question: What is provided inside the room?
     answer: The rooms will vary depending on the venue we use, but in general you
       will have beds (bunk beds), an ensuite (generally a bathtub with a
