@@ -5,7 +5,7 @@ heading: "KFR23 is now fully booked! "
 sub_heading: Wednesday 27th to Saturday 30th December 2023
 links:
   - linkText: Applications for a day visit pass are now closed
-    url: https://eu.jotform.com/232764638861366
+    url: www.khalsafoundation.org/donate
 registrationHeading: KFR 2023 is now fully booked!
 registrationText: This year's retreat takes place from Wednesday 27th to
   Saturday 30th December 2023.
