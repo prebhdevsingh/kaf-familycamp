@@ -1,16 +1,15 @@
 ---
 thumbnail: /img/kfr-2019-website-low-res.png
 title: KHALSA FAMILY RETREAT
-heading: "KFR23 is now fully booked! "
-sub_heading: Wednesday 27th to Saturday 30th December 2023
+heading: KFR24 registration opens soon
+sub_heading: Monday 19th to Friday 23rd August 2024
 links:
-  - linkText: Applications for a day visit pass are now closed
+  - linkText: Applications open soon
     url: www.khalsafoundation.org/donate
-registrationHeading: KFR 2023 is now fully booked!
-registrationText: This year's retreat takes place from Wednesday 27th to
-  Saturday 30th December 2023.
-registrationInfo: The retreat registration is now closed as we are fully booked.
-  To make a donation towards KFR click on the button below.
+registrationHeading: KFR 2024 registration will open soon
+registrationText: This year's retreat takes place in the summer for the first
+  time from Monday 19th to Friday 23rd August 2024
+registrationInfo: To make a donation towards KFR click on the button below.
 quotes:
   - Image: /img/kfr-2019-website-low-res.png
     title: For The Whole Family
