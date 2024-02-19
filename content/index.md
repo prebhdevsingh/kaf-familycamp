@@ -11,7 +11,7 @@ registrationText: This year's retreat takes place in the summer for the first
   time from Monday 19th to Friday 23rd August 2024
 registrationInfo: To make a donation towards KFR click on the button below.
 quotes:
-  - Image: /img/kfr-2019-website-low-res.png
+  - Image: /img/kfr-2024-square.png
     title: For The Whole Family
     quote: >-
       **“SadhSangat Kai Aasrai, Prabh Sio Rang Laai”** – *Through the Saadh
