@@ -1,5 +1,5 @@
 ---
-thumbnail: /img/kfr-2019-website-low-res.png
+thumbnail: /img/kfr-2024-square.png
 title: KHALSA FAMILY RETREAT
 heading: KFR24 registration opens soon
 sub_heading: Monday 19th to Friday 23rd August 2024
