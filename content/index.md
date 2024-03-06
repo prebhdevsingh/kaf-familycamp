@@ -1,12 +1,12 @@
 ---
 thumbnail: /img/kfr-2024-square.png
 title: KHALSA FAMILY RETREAT
-heading: KFR24 registration opens soon
+heading: KFR24 registration is now open
 sub_heading: Monday 19th to Friday 23rd August 2024
 links:
-  - linkText: Applications open soon
-    url: https://www.khalsafoundation.org/donate/
-registrationHeading: KFR 2024 registration will open soon
+  - linkText: Apply now for KFR 2024
+    url: https://form.jotform.com/240202285360344
+registrationHeading: KFR 2024 will take place this summer - limited spaces, book now or miss out
 registrationText: This year's retreat takes place in the summer for the first
   time from Monday 19th to Friday 23rd August 2024
 registrationInfo: To make a donation towards KFR click on the button below.
