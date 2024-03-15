@@ -45,17 +45,20 @@ faqs:
     answer: "Prices vary depending on when you book, but the aim of Khalsa Family
       Retreat is to keep costs to a minimum for delegates. We generally
       subsidise our events, with the retreat not making a profit and running on
-      a loss. This is done so that families can afford to attend get the
-      opportunity to attend. We seek to make up any losses through generous
-      donations from the Sadh Sangat. For KFR the opening fee for early
-      registration will be £150 for anyone over 13 years old and £90 for anyone
-      under 12 years old with those under 2 attending for free. This will be for
-      a limited time so register before the deadline, all the latest offers will
-      be available via the registration form. "
+      a loss. Any profits go back into Khalsa Foundation and Parchar of Sikhi.
+      This is done so that families can afford to attend get the opportunity to
+      attend. We seek to make up any losses through generous donations from the
+      Sadh Sangat. For KFR the opening fee for early registration this summer
+      will be £185 for anyone over 18 years old and £125 for anyone aged between
+      3 to 17 years old, with those aged 2 and under attending for free. This
+      will be for a limited time so register before the deadline, all the latest
+      offers will be available via the registration form. "
   - question: I have a baby, do I have to pay?
-    answer: Children who are aged 2 and under are free. Children aged between 3 and
-      12-years-old will qualify for the child rate.
-  - question: My child is 13-years-old - why do I have to pay adult price?
+    answer: "Children who are aged 2 and under are free. Children aged between 3 and
+      17-years-old will qualify for the child rate for the summer Khalsa Family
+      Retreat. The winter prices are yet to be confirmed. "
+  - question: My child is 13-years-old - why do I have to pay adult price at the
+      winter Khalsa Family Retreat?
     answer: Most residential sites only offer discounted rates for children under
       the age of 12, we then pass these savings onto the families in order to
       book at cheaper rates for children. Generally sites will charge us adult
@@ -65,7 +68,7 @@ faqs:
       in order to attend.
   - question: What support is there for my child who has neurodiversity needs?
     answer: "Whilst we are limited in being able to cater for everything, for KFR
-      2023, we have made arrangements to accommodate Neurodiverse children more
+      2024, we have made arrangements to accommodate Neurodiverse children more
       comfortably than in previous years. This will be shown in the application
       process. What this means is that we will look to cater, where possible,
       specialist session for those children who have neurodiversity needs such
@@ -97,13 +100,13 @@ faqs:
       subsidise our events, with the retreat not making a profit and running on
       a loss each year. This is done so that families can afford to attend get
       the opportunity to attend. We seek to make up any losses through generous
-      donations from the Sadh Sangat. For KFR the opening fee for early
-      registration will be £150 for anyone over 13 years old and £90 for anyone
-      under 12 years old with those under 2 attending for free. This will be for
-      a limited time so register before the deadline, all the latest offers will
-      be available via the registration form. If you require any other
-      assistance in paying, please get in touch and we will look to help you
-      where we can.
+      donations from the Sadh Sangat. For KFR this summer the opening fee for
+      early registration will be £185 for anyone over 18 years old and £125 for
+      anyone under 17 years old with those under 2 attending for free. This will
+      be for a limited time so register before the deadline, all the latest
+      offers will be available via the registration form. If you require any
+      other assistance in paying, please get in touch and we will look to help
+      you where we can.
   - question: I only want to attend as a Sevadar, can I attend for free to do Seva?
     answer: "Whilst we appreciate all Sevadars coming forward, we still have to pay
       the venue for your accommodation and associated costs. All our Sevadars
@@ -135,7 +138,7 @@ faqs:
       to the lead delegate who made the booking.
   - question: Can I be allocated more than one room?
     answer: Generally the answer is no, as rooms are mainly made up of between 4 to
-      7 beds and are allocated depending on the make up of your family e.g. if
+      8 beds and are allocated depending on the make up of your family e.g. if
       you have 5 members in your family, you will be allocated a room with 5
       beds, if rooms with 5 beds are fully allocated, then you will be allocated
       a room with 6 beds etc.
@@ -148,21 +151,21 @@ faqs:
       no one bed bedrooms at the sites we use.
   - question: What is the make up of bedrooms? Are they singles, doubles or king size?
     answer: Depending on the site  it can vary, but currently, the sites we use are
-      made up of single beds/bunk beds only. So for example a bedroom with 4
-      beds will contain 2 single beds and 1 bunk bed; a bedroom with 5 beds will
-      contain 1 single bed and 2 bunk beds; a bedroom with 6 beds will contain 3
-      bunk beds; and a bedroom with 7 beds will contain 1 single bed and 3 bunk
-      beds.
+      made up of single beds/bunk beds only. So for example at the summer KFR
+      rooms a room for 6 beds will be made up of 3 bunk beds and at the winter
+      KFR a bedroom with 4 beds will contain 2 single beds and 1 bunk bed; a
+      bedroom with 5 beds will contain 1 single bed and 2 bunk beds; a bedroom
+      with 6 beds will contain 3 bunk beds; and a bedroom with 7 beds will
+      contain 1 single bed and 3 bunk beds.
   - question: Do you offer accessible rooms with relevant facilities?
     answer: Yes, there will be some accessible rooms available. You should make it
       known during your booking you require this to ensure you are allocated the
       relevant room.
   - question: What is provided inside the room?
     answer: The rooms will vary depending on the venue we use, but in general you
-      will have beds (bunk beds), an ensuite (generally a bathtub with a
-      shower), mirror and cupboard. Outside the rooms, there will be a communal
-      area for your dorm, which will have a kettle, fridge and washing up
-      facilities for dishes.
+      will have beds (bunk beds), an ensuite (generally a shower), mirror and
+      cupboard. Outside the rooms, there will be a communal area for your dorm,
+      which will have a kettle, fridge and washing up facilities for dishes.
   - question: Are cots provided for babies in bedrooms?
     answer: There may be limited cots on site, but we encourage anyone needing a cot
       to bring their own travel cot with them.
