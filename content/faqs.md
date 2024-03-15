@@ -262,4 +262,7 @@ faqs:
       require. If your condition is considered contagious e.g. chickenpox - you
       will be asked to leave the venue. More information is available on our
       terms and conditions page. "
+  - question: What activities will be available at the summer KFR?
+    answer: There will be horse riding, indoor rock climbing, tobogganing, skiing,
+      outdoor sports, bon fire and much more.
 ---
