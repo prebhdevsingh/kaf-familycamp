@@ -32,9 +32,9 @@ faqs:
       new born babies to great grandparents, all are welcome.
   - question: Where does Khalsa Family Retreat take place?
     answer: "Generally Khalsa Family Retreat will take place in different venues
-      depending on the availability and costs. For December 2023, KFR will be
-      taking place in the Midlands in Litchfield which is between Birmingham and
-      Derby. "
+      depending on the availability and costs. For August 2024, KFR will be
+      taking place in Llangrannog, Wales, and in December it will take place in
+      the Midlands in Litchfield which is between Birmingham and Derby. "
   - question: Is Khalsa Family Retreat only for Sikhs?
     answer: No, anyone is welcome, from any background. Khalsa Family Retreat ethos
       is based solely on Sikhi and the Sikh way of life, to encourage everyone
