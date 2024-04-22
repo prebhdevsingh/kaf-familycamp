@@ -1,7 +1,7 @@
 ---
 thumbnail: /img/kfr-2024-square.png
 title: KHALSA FAMILY RETREAT
-heading: Registration is now open - grab your Early Bird offer today!
+heading: Registration is now open - secure your place today!
 sub_heading: Monday 19th to Friday 23rd August 2024
 links:
   - linkText: Apply now for KFR 2024
