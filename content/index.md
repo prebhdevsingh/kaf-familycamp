@@ -9,6 +9,8 @@ links:
   - linkText: Why not attend Khalsa Camp instead? Taking place between 24th to 29th
       August - click here to find out more
     url: https://www.khalsacamp.com/uk/
+  - linkText: Frequently asked questions about KFR
+    url: https://khalsafamilyretreat.co.uk/faqs
 registrationHeading: "            | KFR 2024 will take place this summer - fully sold out"
 registrationText: This year's retreat takes place in the summer for the first
   time from Monday 19th to Friday 23rd August 2024
