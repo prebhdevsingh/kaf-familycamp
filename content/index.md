@@ -6,6 +6,9 @@ sub_heading: Registration is now closed for this summer's KFR
 links:
   - linkText: Join the waiting list for KFR 2024
     url: https://form.jotform.com/241622507139352
+  - linkText: Why not attend Khalsa Camp instead? Taking place between 24th to 29th
+      August - click here to find out more
+    url: https://www.khalsacamp.com/uk/
 registrationHeading: "            | KFR 2024 will take place this summer - fully sold out"
 registrationText: This year's retreat takes place in the summer for the first
   time from Monday 19th to Friday 23rd August 2024
