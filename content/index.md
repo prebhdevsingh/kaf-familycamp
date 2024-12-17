@@ -1,11 +1,11 @@
 ---
 thumbnail: /img/kfr-2024-square.png
 title: KHALSA FAMILY RETREAT
-heading: FULLY BOOKED - Please sign up for the waiting list
+heading: FULLY BOOKED - You can register for Day Passes
 sub_heading: KFR Winter will take place between 27 to 30 December 2024
 links:
-  - linkText: Register for the waiting list now
-    url: https://form.jotform.com/242802845358361
+  - linkText: Register for the Day Pass now
+    url: https://form.jotform.com/243183808191358
   - linkText: Frequently asked questions about KFR
     url: https://khalsafamilyretreat.co.uk/faqs
 registrationHeading: "            | Our second KFR of the year will take place this winter"
